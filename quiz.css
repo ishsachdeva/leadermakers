@@ -1,10 +1,8 @@
 /* (A) WRAPPER */
 #quizWrap {
-  position: absolute; 
+  position: relative; 
   max-width: 600px;
   margin: 0 auto;
-  left: 28%;
-  top: 38%; 
 }
 
 /* (B) QUESTION */
