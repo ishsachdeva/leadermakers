@@ -46,6 +46,7 @@ html, body {
 }
 
 #footer {
+  position: relative;
   background-color: #adcdff;
   margin-top: auto;
 }
