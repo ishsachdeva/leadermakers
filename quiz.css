@@ -1,6 +1,6 @@
 /* (A) WRAPPER */
 #quizWrap {
-  position: absolute;
+  position: relative;
   max-width: 600px;
   margin: 0 auto;
   top: 0%;
