@@ -1,9 +1,9 @@
 /* (A) WRAPPER */
 #quizWrap {
-  position: relative;
+  position: absolute;
   max-width: 600px;
   margin: 0 auto;
-  top: 0%;
+  top: -10%;
 }
 
 /* (B) QUESTION */
