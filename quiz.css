@@ -1,6 +1,9 @@
 /* (A) WRAPPER */
 #quizWrap {
-
+  display: flex;  
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center; 
 }
 
 /* (B) QUESTION */
