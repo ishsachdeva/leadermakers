@@ -578,6 +578,7 @@ var quiz = {
  		var strb = "<img src='"
 		var strc = "' width='550' height='300'>"
 		var fin = strb.concat(res,strc)
+		var result = fin.link("https://outlook.office365.com/owa/calendar/LeaderMakers@leadermakers.co.in/bookings/s/ObeXu5W-CkKOOD0g7SCxOw2");
 		//var x = document.createElement("IMG");
   		//x.setAttribute("src", res);
   		//x.setAttribute("width", "304");
@@ -586,7 +587,7 @@ var quiz = {
 		//x.setAttribute("align", "center");
   		//
 		//alert(quiz.l,"  ", fin);
-		quiz.hQn.innerHTML = fin;
+		quiz.hQn.innerHTML = result;
 		//document.body.appendChild(x);
 		 
       }
