@@ -576,7 +576,7 @@ var quiz = {
   		var str3 = ".png";
   		var res = str1.concat(str2, str3);
  		var strb = "<img src='"
-		var strc = "' width='300' height='300'>"
+		var strc = "' width='550' height='300'>"
 		var fin = strb.concat(res,strc)
 		//var x = document.createElement("IMG");
   		//x.setAttribute("src", res);
